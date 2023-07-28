@@ -1,0 +1,8 @@
+.terraform
+.vscode
+terraform.tfstate
+terraform.tfstate.backup
+init.tf
+vendor/
+000_getting_started/AWSCLIV2.pkg
+.DS_Store
